@@ -59,7 +59,6 @@ public class MainActivity extends AppCompatActivity {
             else if(t.isEmpty())
                 showErrors.setText("Заповніть t");
             else showErrors.setText("Помилка при конвертації");
-            System.out.println("x1="+x1+" x2="+x2+" t="+t);
             test=false;
         }
         finally{
