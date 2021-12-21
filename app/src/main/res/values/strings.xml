@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">varNineGraph</string>
+    <string name="tHint">Введіть T</string>
+    <string name="x1Hint">Введіть x1</string>
+    <string name="x2Hint">Введіть x2</string>
+    <string name="Enter">Згенерувати</string>
+</resources>
